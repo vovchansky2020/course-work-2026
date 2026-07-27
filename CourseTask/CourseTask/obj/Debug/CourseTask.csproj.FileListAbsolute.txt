@@ -1,7 +1,0 @@
-C:\Users\Володя\OneDrive\Рабочий стол\учеба\2й семестр\CourseTask\CourseTask\bin\Debug\CourseTask.exe.config
-C:\Users\Володя\OneDrive\Рабочий стол\учеба\2й семестр\CourseTask\CourseTask\bin\Debug\CourseTask.exe
-C:\Users\Володя\OneDrive\Рабочий стол\учеба\2й семестр\CourseTask\CourseTask\bin\Debug\CourseTask.pdb
-C:\Users\Володя\OneDrive\Рабочий стол\учеба\2й семестр\CourseTask\CourseTask\obj\Debug\CourseTask.csprojAssemblyReference.cache
-C:\Users\Володя\OneDrive\Рабочий стол\учеба\2й семестр\CourseTask\CourseTask\obj\Debug\CourseTask.csproj.CoreCompileInputs.cache
-C:\Users\Володя\OneDrive\Рабочий стол\учеба\2й семестр\CourseTask\CourseTask\obj\Debug\CourseTask.exe
-C:\Users\Володя\OneDrive\Рабочий стол\учеба\2й семестр\CourseTask\CourseTask\obj\Debug\CourseTask.pdb
